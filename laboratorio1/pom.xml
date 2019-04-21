@@ -11,7 +11,7 @@
 	<groupId>gt.edu.umg.ingenieria.sistemas</groupId>
 	<artifactId>laboratorio1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>laboratorio1</name>
+	<name>laboratorio1.2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
